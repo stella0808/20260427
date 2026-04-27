@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "vue": "^3.5.32",
-    "axios": "^1.7.9"  // 請在這裡加入這一行
+    "axios": "^1.7.9" ,
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^6.0.6",
